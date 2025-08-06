@@ -1,0 +1,4 @@
+image:
+  repository: dokerkar/your-image-name:v12
+  tag: v18
+  pullPolicy: Always
