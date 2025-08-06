@@ -1,4 +1,4 @@
 image:
   repository: dokerkar/your-image-name
-  tag: v92
+  tag: v93
   pullPolicy: Always
